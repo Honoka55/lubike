@@ -9,10 +9,10 @@ As the default font of the wikifarm [Fandom](https://www.fandom.com/), Rubik sup
 
 ## Features
 - All upper and lower case Pinyin alphabets that are already encoded in Unicode are supported, such as ǚ, ế and ǹ. The abbreviated forms specified in the Scheme for Chinese Phonetic Alphabet (*Hànyǔ Pīnyīn Fāng’àn*) are not included because no one actually uses them.
-- This font is NOT designed for textbooks that teach Chinese as a foreign language. The *yángpíng* tone mark is still designed as an **acute** (wide at the top and narrow at the bottom), instead of following the Pinyin stroke order (wide at the bottom and narrow at the top).
+- This font is NOT designed for textbooks that teach Chinese as a foreign language. The lowercase **a** in roman type is still designed in double-storey, and the *yángpíng* tone mark is still designed as an **acute** (wide at the top and narrow at the bottom), instead of following the Pinyin stroke order (wide at the bottom and narrow at the top).
 
 ## Usage
-Try putting the following codes in your wiki’s Common.css. If it does’t work, download [the fonts](https://github.com/Honoka55/lubike/tree/main/fonts/ttf) and install them on your device.
+Try putting the following codes in your wiki’s Common.css. If this does’t work, download [the fonts](https://github.com/Honoka55/lubike/tree/main/fonts/ttf) and install them on your device.
 ``` css
 @font-face {
     font-family: Lubike;
